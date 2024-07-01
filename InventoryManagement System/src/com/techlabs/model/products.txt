@@ -1,0 +1,124 @@
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+product phone,Pixel,with high coverage ability,1,30000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+product phone,Pixel,with high coverage ability,1,30000.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+product phone,Pixel,with high coverage ability,1,30000.0
+prodcut utensils,glass,with attaractive curves,2,100.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+product phone,Pixel,with high coverage ability,1,30000.0
+prodcut utensils,glass,with attaractive curves,2,100.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+product phone,Pixel,with high coverage ability,1,30000.0
+prodcut utensils,glass,with attaractive curves,2,100.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+product phone,Pixel,with high coverage ability,1,30000.0
+prodcut utensils,glass,with attaractive curves,2,100.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+product phone,Pixel,with high coverage ability,1,30000.0
+prodcut utensils,glass,with attaractive curves,2,100.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+product phone,Pixel,with high coverage ability,1,30000.0
+prodcut utensils,glass,with attaractive curves,2,100.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+product phone,Pixel,with high coverage ability,1,30000.0
+prodcut utensils,glass,with attaractive curves,2,100.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+product phone,Pixel,with high coverage ability,1,30000.0
+prodcut utensils,glass,with attaractive curves,2,100.0
+p1,laptop,high processed laptop,1,60000.0
+p2,thsirt,full coton,1,200.0
+p3,book,comic-gerne,1,2000.0
+peoduct shoe,shoe,redtape,1,9000.0
+product phone,Pixel,with high coverage ability,1,30000.0
+prodcut utensils,glass,with attaractive curves,2,100.0

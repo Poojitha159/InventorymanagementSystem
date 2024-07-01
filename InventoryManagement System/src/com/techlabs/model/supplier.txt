@@ -1,0 +1,78 @@
+s1,abc suppliers,abcsupplies@gmail.com
+s1,abc suppliers,abcsupplies@gmail.com
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove,1,Mon Jul 01 08:41:30 IST 2024
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+eee2bfcf-cc06-49a2-a837-b30143f17cf0,p2,Remove,1,Mon Jul 01 08:57:07 IST 2024
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+eee2bfcf-cc06-49a2-a837-b30143f17cf0,p2,Remove
+eee2bfcf-cc06-49a2-a837-b30143f17cf0,p2,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+eee2bfcf-cc06-49a2-a837-b30143f17cf0,p2,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+eee2bfcf-cc06-49a2-a837-b30143f17cf0,p2,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+eee2bfcf-cc06-49a2-a837-b30143f17cf0,p2,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+eee2bfcf-cc06-49a2-a837-b30143f17cf0,p2,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+eee2bfcf-cc06-49a2-a837-b30143f17cf0,p2,Remove
+s1,abc suppliers,abcsupplies@gmail.com
+shoesupplier,redtapesupplier,redtape@gmail.com
+6fdd21af-6215-40cb-bdda-43774b3ddcff,peoduct shoe,Remove
+eee2bfcf-cc06-49a2-a837-b30143f17cf0,p2,Remove
